@@ -1,21 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:56.104779
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:42
 #+TITLE: 佛說辟除諸惡陀羅尼經
 #+PROPERTY: CBETA_ID T21n1407
 #+PROPERTY: ID KR6j0639
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1407
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0639_T_001-0922b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1407¶
-
- 佛說辟除諸惡陀羅尼經¶
+No. 1407¶
+佛說辟除諸惡陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 爾時世尊告阿難言。我見世間災沴起時。遂¶
 生飛蝗及與毒蟲。乃至蚊虻虎狼處處增盛。¶
